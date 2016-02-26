@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/Music/tcpdump_bretsko-0.1/tcpdump_bretsko.c
+pcap.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+stdbool.h
+-
+errno.h
+-
+signal.h
+-
+unistd.h
+-
+getopt.h
+-
+string.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+sys/types.h
+-
+net/ethernet.h
+-
+netinet/ether.h
+-
+netinet/ip.h
+-
+

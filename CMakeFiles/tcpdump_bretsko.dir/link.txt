@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/tcpdump_bretsko.dir/tcpdump_bretsko.c.o  -o tcpdump_bretsko -rdynamic -lpcap 
